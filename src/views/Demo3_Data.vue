@@ -10,7 +10,7 @@
     <div>{{account.username}} {{account.password}}</div>
     <div>{{courses[0]}}</div>
     <ul>
-        <li v-for="(item, index) in courses" :key="index">{{item}}</li>
+        <li v-for="(item, index) in courses" :key="index">{{index+1}}. {{item}}</li>
     </ul>
 </div>
 </template>
