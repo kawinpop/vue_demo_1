@@ -19,13 +19,5 @@ export default {
 </script>
 
 <style>
-ul {
-    margin: 0;
-    padding: 0;
-}
 
-li {
-    display: inline;
-    margin-right: 8px;
-}
 </style>
