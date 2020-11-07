@@ -13,6 +13,9 @@
         <li>
             <router-link to="/demo3">Demo3 Data</router-link>
         </li>
+        <li>
+            <router-link to="/demo4">Demo4 Compute</router-link>
+        </li>
     </ul>
     <router-view></router-view>
 </div>
